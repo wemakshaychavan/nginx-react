@@ -1,0 +1,11 @@
+server {
+  listen $PORT ;
+  server_name localhost;
+
+  location / {
+    root /care;
+    index index.html;
+    try_files $uri /index.html;
+  }
+
+}
