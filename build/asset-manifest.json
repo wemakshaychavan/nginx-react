@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.02751524.chunk.css",
-    "main.js": "/static/js/main.e5f8a862.chunk.js",
-    "main.js.map": "/static/js/main.e5f8a862.chunk.js.map",
+    "main.css": "/static/css/main.d22ec39a.chunk.css",
+    "main.js": "/static/js/main.5005b78a.chunk.js",
+    "main.js.map": "/static/js/main.5005b78a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.16206e93.js",
     "runtime-main.js.map": "/static/js/runtime-main.16206e93.js.map",
     "static/css/2.d61ac1f4.chunk.css": "/static/css/2.d61ac1f4.chunk.css",
-    "static/js/2.49b31a1f.chunk.js": "/static/js/2.49b31a1f.chunk.js",
-    "static/js/2.49b31a1f.chunk.js.map": "/static/js/2.49b31a1f.chunk.js.map",
+    "static/js/2.2bff7303.chunk.js": "/static/js/2.2bff7303.chunk.js",
+    "static/js/2.2bff7303.chunk.js.map": "/static/js/2.2bff7303.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ba2b3567fcf2f1a54fd3a21eaea0d92f.js": "/precache-manifest.ba2b3567fcf2f1a54fd3a21eaea0d92f.js",
+    "precache-manifest.5747fa13a18c1860217ded2377f46002.js": "/precache-manifest.5747fa13a18c1860217ded2377f46002.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d61ac1f4.chunk.css.map": "/static/css/2.d61ac1f4.chunk.css.map",
-    "static/css/main.02751524.chunk.css.map": "/static/css/main.02751524.chunk.css.map",
-    "static/js/2.49b31a1f.chunk.js.LICENSE.txt": "/static/js/2.49b31a1f.chunk.js.LICENSE.txt",
+    "static/css/main.d22ec39a.chunk.css.map": "/static/css/main.d22ec39a.chunk.css.map",
+    "static/js/2.2bff7303.chunk.js.LICENSE.txt": "/static/js/2.2bff7303.chunk.js.LICENSE.txt",
     "static/media/Stripe_Logo.png": "/static/media/Stripe_Logo.b7edbdb5.png",
     "static/media/accept.517dd3ce.svg": "/static/media/accept.517dd3ce.svg",
     "static/media/add_user.9b11e477.svg": "/static/media/add_user.9b11e477.svg",
@@ -34,6 +34,7 @@
     "static/media/microphone_slash_icon.svg": "/static/media/microphone_slash_icon.14e60a5b.svg",
     "static/media/payment-step.0e3a6cde.svg": "/static/media/payment-step.0e3a6cde.svg",
     "static/media/pdfIcon.783e37d8.svg": "/static/media/pdfIcon.783e37d8.svg",
+    "static/media/pending_appointments.c9de86e2.svg": "/static/media/pending_appointments.c9de86e2.svg",
     "static/media/phone.svg": "/static/media/phone.753fb904.svg",
     "static/media/practice-setup-step.c98888b3.svg": "/static/media/practice-setup-step.c98888b3.svg",
     "static/media/practiceAdmin.38c39912.svg": "/static/media/practiceAdmin.38c39912.svg",
@@ -50,8 +51,8 @@
   "entrypoints": [
     "static/js/runtime-main.16206e93.js",
     "static/css/2.d61ac1f4.chunk.css",
-    "static/js/2.49b31a1f.chunk.js",
-    "static/css/main.02751524.chunk.css",
-    "static/js/main.e5f8a862.chunk.js"
+    "static/js/2.2bff7303.chunk.js",
+    "static/css/main.d22ec39a.chunk.css",
+    "static/js/main.5005b78a.chunk.js"
   ]
 }
