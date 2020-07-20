@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.f8068c02.chunk.css",
-    "main.js": "/static/js/main.80c213f8.chunk.js",
-    "main.js.map": "/static/js/main.80c213f8.chunk.js.map",
+    "main.js": "/static/js/main.a32f7ea4.chunk.js",
+    "main.js.map": "/static/js/main.a32f7ea4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.16206e93.js",
     "runtime-main.js.map": "/static/js/runtime-main.16206e93.js.map",
     "static/css/2.d61ac1f4.chunk.css": "/static/css/2.d61ac1f4.chunk.css",
-    "static/js/2.2774f46f.chunk.js": "/static/js/2.2774f46f.chunk.js",
-    "static/js/2.2774f46f.chunk.js.map": "/static/js/2.2774f46f.chunk.js.map",
+    "static/js/2.24fe9847.chunk.js": "/static/js/2.24fe9847.chunk.js",
+    "static/js/2.24fe9847.chunk.js.map": "/static/js/2.24fe9847.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ce7997ae9776a6a14a208f1156df7ce8.js": "/precache-manifest.ce7997ae9776a6a14a208f1156df7ce8.js",
+    "precache-manifest.789ddd0c5bc92de887226f28a14d46bb.js": "/precache-manifest.789ddd0c5bc92de887226f28a14d46bb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d61ac1f4.chunk.css.map": "/static/css/2.d61ac1f4.chunk.css.map",
     "static/css/main.f8068c02.chunk.css.map": "/static/css/main.f8068c02.chunk.css.map",
-    "static/js/2.2774f46f.chunk.js.LICENSE.txt": "/static/js/2.2774f46f.chunk.js.LICENSE.txt",
+    "static/js/2.24fe9847.chunk.js.LICENSE.txt": "/static/js/2.24fe9847.chunk.js.LICENSE.txt",
     "static/media/Stripe_Logo.png": "/static/media/Stripe_Logo.b7edbdb5.png",
     "static/media/accept.517dd3ce.svg": "/static/media/accept.517dd3ce.svg",
     "static/media/add_user.9b11e477.svg": "/static/media/add_user.9b11e477.svg",
@@ -25,7 +25,7 @@
     "static/media/emergency.a1adc762.svg": "/static/media/emergency.a1adc762.svg",
     "static/media/facebook_logo.b66e0c71.svg": "/static/media/facebook_logo.b66e0c71.svg",
     "static/media/google_logo.4c0816b1.svg": "/static/media/google_logo.4c0816b1.svg",
-    "static/media/header_logo.svg": "/static/media/header_logo.37723bf0.svg",
+    "static/media/header_logo.svg": "/static/media/header_logo.8b9e918d.svg",
     "static/media/history_appointement.4ffc71a8.svg": "/static/media/history_appointement.4ffc71a8.svg",
     "static/media/imageIcon.7f3de014.svg": "/static/media/imageIcon.7f3de014.svg",
     "static/media/login_logo.svg": "/static/media/login_logo.a2c1ceb5.svg",
@@ -50,8 +50,8 @@
   "entrypoints": [
     "static/js/runtime-main.16206e93.js",
     "static/css/2.d61ac1f4.chunk.css",
-    "static/js/2.2774f46f.chunk.js",
+    "static/js/2.24fe9847.chunk.js",
     "static/css/main.f8068c02.chunk.css",
-    "static/js/main.80c213f8.chunk.js"
+    "static/js/main.a32f7ea4.chunk.js"
   ]
 }
