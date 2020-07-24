@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.25091ffa.chunk.css",
-    "main.js": "/static/js/main.9b64a8de.chunk.js",
-    "main.js.map": "/static/js/main.9b64a8de.chunk.js.map",
+    "main.css": "/static/css/main.1690b241.chunk.css",
+    "main.js": "/static/js/main.89bb64e8.chunk.js",
+    "main.js.map": "/static/js/main.89bb64e8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.16206e93.js",
     "runtime-main.js.map": "/static/js/runtime-main.16206e93.js.map",
     "static/css/2.d61ac1f4.chunk.css": "/static/css/2.d61ac1f4.chunk.css",
-    "static/js/2.e583780b.chunk.js": "/static/js/2.e583780b.chunk.js",
-    "static/js/2.e583780b.chunk.js.map": "/static/js/2.e583780b.chunk.js.map",
+    "static/js/2.ce800ded.chunk.js": "/static/js/2.ce800ded.chunk.js",
+    "static/js/2.ce800ded.chunk.js.map": "/static/js/2.ce800ded.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0eafec1c56caf3697b7c08b7ddf35979.js": "/precache-manifest.0eafec1c56caf3697b7c08b7ddf35979.js",
+    "precache-manifest.5a8750c987e0ba8bb167f4f3fc85ddc9.js": "/precache-manifest.5a8750c987e0ba8bb167f4f3fc85ddc9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d61ac1f4.chunk.css.map": "/static/css/2.d61ac1f4.chunk.css.map",
-    "static/css/main.25091ffa.chunk.css.map": "/static/css/main.25091ffa.chunk.css.map",
-    "static/js/2.e583780b.chunk.js.LICENSE.txt": "/static/js/2.e583780b.chunk.js.LICENSE.txt",
+    "static/css/main.1690b241.chunk.css.map": "/static/css/main.1690b241.chunk.css.map",
+    "static/js/2.ce800ded.chunk.js.LICENSE.txt": "/static/js/2.ce800ded.chunk.js.LICENSE.txt",
     "static/media/Stripe_Logo.png": "/static/media/Stripe_Logo.b7edbdb5.png",
     "static/media/accept.517dd3ce.svg": "/static/media/accept.517dd3ce.svg",
     "static/media/add_user.9b11e477.svg": "/static/media/add_user.9b11e477.svg",
@@ -30,8 +30,6 @@
     "static/media/imageIcon.7f3de014.svg": "/static/media/imageIcon.7f3de014.svg",
     "static/media/invite-user-step.db0a5d4d.svg": "/static/media/invite-user-step.db0a5d4d.svg",
     "static/media/login_logo.svg": "/static/media/login_logo.a2c1ceb5.svg",
-    "static/media/microphone_icon.svg": "/static/media/microphone_icon.4357e74e.svg",
-    "static/media/microphone_slash_icon.svg": "/static/media/microphone_slash_icon.14e60a5b.svg",
     "static/media/payment-step.0e3a6cde.svg": "/static/media/payment-step.0e3a6cde.svg",
     "static/media/pdfIcon.783e37d8.svg": "/static/media/pdfIcon.783e37d8.svg",
     "static/media/pending_appointments.c9de86e2.svg": "/static/media/pending_appointments.c9de86e2.svg",
@@ -45,15 +43,13 @@
     "static/media/start.8c2e127f.svg": "/static/media/start.8c2e127f.svg",
     "static/media/timeIcon.8bbbea63.svg": "/static/media/timeIcon.8bbbea63.svg",
     "static/media/upcoming_appointement.65402e96.svg": "/static/media/upcoming_appointement.65402e96.svg",
-    "static/media/users.d5c4b934.svg": "/static/media/users.d5c4b934.svg",
-    "static/media/video_icon.svg": "/static/media/video_icon.e208b87c.svg",
-    "static/media/video_slash_icon.svg": "/static/media/video_slash_icon.e7755434.svg"
+    "static/media/users.d5c4b934.svg": "/static/media/users.d5c4b934.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.16206e93.js",
     "static/css/2.d61ac1f4.chunk.css",
-    "static/js/2.e583780b.chunk.js",
-    "static/css/main.25091ffa.chunk.css",
-    "static/js/main.9b64a8de.chunk.js"
+    "static/js/2.ce800ded.chunk.js",
+    "static/css/main.1690b241.chunk.css",
+    "static/js/main.89bb64e8.chunk.js"
   ]
 }
